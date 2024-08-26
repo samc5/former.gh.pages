@@ -1,13 +1,13 @@
 ## Hi, I'm Sam Cowan
 
-** I'm a rising second-year Data Science student from Brooklyn, NY, currently at Boston University. Areas of interest include sports analytics, elections, forecasting ([see Tetlock](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs
-** 
+**I'm a rising second-year Data Science student from Brooklyn, NY, currently at Boston University. Some of my areas of interest are sports analytics, elections, forecasting ([see Tetlock](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs** 
 
 ## Independent Projects
 
-[Papyrss](expertify.samcowan.net)  
+[Papyrss](https://expertify.samcowan.net)  
+
 ![Papyrss](Papyrss.png)
-[Better BU Dining](budining.samcowan.net)  
+[Better BU Dining](https://budining.samcowan.net)  
   
 [WatchPeglegs](https://github.com/samc5/WatchPeglegs) (not hosted)  
    
