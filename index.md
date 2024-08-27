@@ -28,7 +28,7 @@
 A tool I made at the beginning of freshman year with Flask and Bootstrap to help myself and others with dietary restrictions navigate the BU dining halls. The actual BU Dining website offers filters but these don't work as intended, particularly for gluten free food. Better BU Dining scrapes the dining hall website with BeautifulSoup and stores the menu every day in a Firebase database. Users can select dietary restrictions which the app looks for in the ingredients lists of the menu items. 
 ![BU Dining](BUDining.png)
 
-[WatchPeglegs](https://github.com/samc5/WatchPeglegs) (not hosted)  
+[WatchPeglegs](https://github.com/samc5/WatchPeglegs) (no longer hosted)    
 A Flask app I built for the 2023 Stuyvesant baseball season to display a scoreboard above the embedded facebook livestream of our games. I used selenium to scrape the url of GameChanger's private API which was used to update the scoreboard live. Below is a low-quality photo from the testing process (the only one I have of the now-obsolete site in use)
 
 ![WatchPeglegs](watchpeglegs.jpg)
