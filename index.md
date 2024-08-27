@@ -28,23 +28,24 @@
 A tool I made at the beginning of freshman year with **Flask** and **Bootstrap** to help myself and others with dietary restrictions navigate the BU dining halls. The actual BU Dining website offers filters but these don't work as intended, particularly for gluten free food. Better BU Dining scrapes the dining hall website with **BeautifulSoup** and stores the menu every day in a **Firebase** database. Users can select dietary restrictions which the app looks for in the ingredients lists of the menu items. 
 ![BU Dining](BUDining.png)
 
-[WatchPeglegs](https://github.com/samc5/WatchPeglegs) (no longer hosted)    
+[WatchPeglegs](https://github.com/samc5/WatchPeglegs) (no longer hosted)   
+ 
 A **Flask** app I built for the 2023 Stuyvesant baseball season to display a scoreboard above the embedded facebook livestream of our games. I used **Selenium** to scrape the url of GameChanger's private API which was used to update the scoreboard live. Below is a low-quality photo from the testing process (the only one I have of the now-obsolete site in use)
 
 ![WatchPeglegs](watchpeglegs.jpg)
 ## Class Projects
 
-- [Rate My Professors Ratings Prediction](https://github.com/samc5/RMP_110) ([DS 110](https://www.bu.edu/academics/cds/courses/cds-ds-110/))
+[Rate My Professors Ratings Prediction](https://github.com/samc5/RMP_110) ([DS 110](https://www.bu.edu/academics/cds/courses/cds-ds-110/))
 
 For my DS 110 final project, I used various **Python** libraries (**pandas**, **scikit-learn**, **nltk**) to analyze a dataset of 20,000 RateMyProfessors reviews for characteristics that most impacted professor ratings. I trained random forest classifier and linear regression models to predict each professor’s average rating. I also experimented with Word2Vec embeddings to compute attractiveness ratings for professors based on students' descriptions of them, and conducted t-tests to determine statistical significance of correlations (yes, more attractive professors had higher ratings)
 
 
-- [Social Connection Graph Analysis](https://github.com/samc5/Final_DS210) ([DS 210](https://www.bu.edu/academics/cds/courses/cds-ds-210/))
+[Social Connection Graph Analysis](https://github.com/samc5/Final_DS210) ([DS 210](https://www.bu.edu/academics/cds/courses/cds-ds-210/))
 
 For my DS 210 project in **Rust**, I analyzed a graph dataset of Facebook social connectedness between US counties and worldwide countries. I cleaned and re-formatted the data, and constructed a minimum spanning tree to keep only the most significant connections between locations. I then analyzed the results to verify unexpected edges (i.e. Singapore to Elmore County, Idaho, which turns out to be the site of a Singaporean air force base).
 
 
-- [College Informer](https://github.com/samc5/CollegeInformer) (Stuy SoftDev)
+[College Informer](https://github.com/samc5/CollegeInformer) (Stuy SoftDev)
 
 As part of a group in Software Development, I built a **Flask** app giving users a dashboard of information about logistics and residential life at a selected college. We utilized the College Scorecard and Bing Maps APIs to calculate driving time and transit directions from NYC. We pointed out 5 locations of interest, annual weather patterns, gas prices, and embedded maps with the Bing Maps, Open Meteo Weather, and GasBuddy APIs
 
