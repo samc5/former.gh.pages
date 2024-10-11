@@ -15,8 +15,8 @@
 - [Resume](resume.pdf)
 
 ### Technical Skills
-**Programming Languages:** Python (Advanced), Rust , R, Java, C (Intermediate)
-**Frameworks and Libraries:** Flask, Flutter, Pandas, Bootstrap, Selenium
+**Programming Languages:** Python (Advanced), Rust , R, Java, C (Intermediate)  
+**Frameworks and Libraries:** Flask, Flutter, Pandas, Bootstrap, Selenium  
 **Other Technologies:** SQL, MongoDB, GraphQL, Unix/Bash, Git, HTML/CSS, Azure, DigitalOcean, Firebase, Microsoft Office
 
 ## Independent Projects
