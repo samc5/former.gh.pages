@@ -1,7 +1,7 @@
 # Sam Cowan Landing Page
 ## Hi, I'm Sam Cowan
 
-**I'm a rising second-year at Boston University studying Data Science and Statistics. Some of my interests include sports analytics, elections, forecasting ([see Tetlock](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs**
+**I'm a second-year at Boston University studying Data Science and Statistics. Some of my interests include sports analytics, elections, forecasting ([see Tetlock](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)), and reading old blogs**
 
 **I'm currently looking for 2025 internships in:**
 - Software Engineering
@@ -13,6 +13,11 @@
 - [Linkedin](https://www.linkedin.com/in/sam-t-cowan/)
 - [Github](https://github.com/samc5)
 - [Resume](resume.pdf)
+
+### Technical Skills
+**Programming Languages:** Python (Advanced), Rust , R, Java, C (Intermediate)
+**Frameworks and Libraries:** Flask, Flutter, Pandas, Bootstrap, Selenium
+**Other Technologies:** SQL, MongoDB, GraphQL, Unix/Bash, Git, HTML/CSS, Azure, DigitalOcean, Firebase, Microsoft Office
 
 ## Independent Projects
 
