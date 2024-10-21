@@ -1,0 +1,6 @@
+**
+!.obsidian/
+!.obsidian/**
+!Bio/
+!Bio/**
+!.gitignore
